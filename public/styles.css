@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    font-size: larger;
+    font-weight: bolder;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+#btn {
+    display: flex;
+    justify-content: center;
+}
